@@ -1,3 +1,4 @@
+package program1;
 class demo1 <T>{
     T name;
 
